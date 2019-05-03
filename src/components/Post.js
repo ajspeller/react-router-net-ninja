@@ -26,7 +26,7 @@ class Post extends Component {
     );
 
     return (
-      <div className='container'>
+      <div className='Post container'>
         <h4>{post}</h4>
       </div>
     );
